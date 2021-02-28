@@ -1,4 +1,4 @@
-# Patryck Harley
+## Patryck Harley
 
 <p>
 <!-- -</a>
@@ -17,15 +17,15 @@
 ![focus](https://img.shields.io/badge/focus-dataviz-blue?&style=flat-square)
 ![living](https://img.shields.io/badge/living-Bananeiras--PB-blue?&style=flat-square)
 ![living](https://img.shields.io/badge/-bananeiras-blue?&style=flat-square)
-
-- 🔭 I’m currently working on data driven sustainability evaluation of agroecosystems
-- 🌱 I’m currently learning statistic
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about DataViz
-- 📫 How to reach me: [patryck@outlook.com](mailto:@outlook.com)
-- 😄 Pronouns: him/he 
- -->
 <p>
 <a href="https://github.com/serenozin?tab=repositories">
   <img width="350px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=serenozin&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+
+ -->
+- 🔭 I’m currently working on data driven sustainability evaluation of agroecosystems
+- 🌱 I’m currently learning statistic
+- 👯 I’m looking to collaborate on data insights and visualization
+- 🤔 I’m looking for help with business inteligence
+- 💬 Ask me about data visualization
+- 😄 Pronouns: him/he 
+
