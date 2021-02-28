@@ -25,6 +25,7 @@
 - 💬 Ask me about DataViz
 - 📫 How to reach me: [patryck@outlook.com](mailto:@outlook.com)
 - 😄 Pronouns: him/he 
+ -->
+<p>
 <a href="https://github.com/serenozin?tab=repositories">
   <img width="350px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=serenozin&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
- -->
