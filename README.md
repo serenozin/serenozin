@@ -11,6 +11,7 @@
 </a>
 <a href="mailto:@outlook.com">
   <img src="https://shields.io/badge/-Email-000?&style=flat-square" />
+</a>
 
 <!--   
 ![age](https://img.shields.io/badge/age-21-blue?&style=flat-square)
