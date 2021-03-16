@@ -30,3 +30,4 @@
 - 💬 Ask me about data visualization
 - 😄 Pronouns: him/he 
 
+![codewars](https://www.codewars.com/users/serenozin/badges/small)
