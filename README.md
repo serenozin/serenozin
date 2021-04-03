@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/patryckharley/">
   <img src="https://shields.io/badge/-LinkedIn-000?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:@outlook.com">
+<a href="mailto:patryck@outlook.com">
   <img src="https://shields.io/badge/-Email-000?&style=flat-square" />
 </a>
 
