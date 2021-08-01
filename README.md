@@ -30,5 +30,5 @@
 - 💬 Ask me about **data visualization**
 - 😄 Pronouns: him/he 
 
-#### Competent Problem Solver in CodeWars:
+#### Competent Problem Solver in CodeWars (Python | SQL):
 ![codewars](https://www.codewars.com/users/serenozin/badges/small)
